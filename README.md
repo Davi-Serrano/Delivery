@@ -5,8 +5,6 @@
 
 <p>TO DO.</p>
 
-![Cbank gif](https://user-images.githubusercontent.com/82523921/166157471-4d0557b2-1af5-45c1-9a20-a9a6f70d6656.gif)
-
 <h4><a href="https://ds-exemplo-landing-page-1.netlify.app/" target="_blank">Para acessar ao site clique aqui</a></h4>
 
 <h2>Back-End</h2>
