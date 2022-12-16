@@ -3,10 +3,8 @@
 <h4>Descrição</h4>
 <p>API feita para que entregadores e restaurantes consigam levar o produto até o cleinte</h4>
 
-<p>TO DO.</p>
-
-<h4><a href="https://ds-exemplo-landing-page-1.netlify.app/" target="_blank">Para acessar ao site clique aqui</a></h4>
-
+<p>Aplicação conecta entregadores com restaurantes aonde um restaurante pode abrir um pedido e um entregador aceitar, é possivel moniotar o status entrega</p>
+  
 <h2>Back-End</h2>
 
 <h3>
